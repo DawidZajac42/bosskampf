@@ -1,0 +1,14 @@
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\bin\Debug\net8.0\BossKampf.exe
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\bin\Debug\net8.0\BossKampf.deps.json
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\bin\Debug\net8.0\BossKampf.runtimeconfig.json
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\bin\Debug\net8.0\BossKampf.dll
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\bin\Debug\net8.0\BossKampf.pdb
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.AssemblyInfo.cs
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.dll
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\refint\BossKampf.dll
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.pdb
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\BossKampf.genruntimeconfig.cache
+C:\Users\dawid\Desktop\projekte entpackt\BossKampf\obj\Debug\net8.0\ref\BossKampf.dll
